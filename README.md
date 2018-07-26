@@ -1,5 +1,6 @@
 # C
 Exercicios
+
 #include<stdio.h>
 #include<math.h>
 
