@@ -1,4 +1,4 @@
-# C
+
 Exercicios
 
 #include<stdio.h>
@@ -7,7 +7,6 @@ Exercicios
 int main()
 {
     float L1,L2,L3,areatriangulo,T;
-
     scanf("%f",&L1);
     scanf("%f",&L2);
     scanf("%f",&L3);
