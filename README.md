@@ -1,10 +1,6 @@
 
 Exercicios
-
-#include<stdio.h>
-#include<math.h>
-
-int main()
+sffdggggfgfdgdfgg
 {
     float L1,L2,L3,areatriangulo,T;
     scanf("%f",&L1);
@@ -17,3 +13,4 @@ int main()
     printf("A AREA DO TRIANGULO E = %.2f\n",areatriangulo);
     return 0;
 }
+eeee
